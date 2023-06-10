@@ -1,6 +1,7 @@
 # Repo: MySpace/TemplateRepo
 # File: azure-pipeline.yml
 # make changes
+# make 2nd changes
 name: cicd_ci
 
 trigger:
