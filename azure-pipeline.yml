@@ -12,10 +12,10 @@
 # 10th
 name: cicd_ci
 
-trigger:
-  branches:
-    include:
-      - master
+# trigger:
+#   branches:
+#     include:
+#       - master
 
 stages:
 - stage: CI_Checks
